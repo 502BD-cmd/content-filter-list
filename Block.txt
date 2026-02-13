@@ -1,4 +1,4 @@
-hui.ru
+25
 ntp.org
 pool.ntp.org
 ru.msn.com
