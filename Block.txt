@@ -1,8 +1,4 @@
-25
-23
-24
-25
-26
+v.1.0
 ntp.org
 pool.ntp.org
 ru.msn.com
