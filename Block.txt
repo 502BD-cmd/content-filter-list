@@ -1,4 +1,4 @@
-v.1.2
+v.1.3
 ok.ru
 vk.com
 passport.yandex.ru
@@ -14,3 +14,4 @@ technet.microsoft.com
 go.microsoft.com
 mail.ru
 gmail.com
+max.ru
